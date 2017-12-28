@@ -1,0 +1,4 @@
+test:
+    script:
+        # Somente verifica a sintaxe
+        - /usr/local/bin/python3.6 -m py_compile inleads.py
